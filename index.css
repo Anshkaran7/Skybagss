@@ -140,7 +140,7 @@ li:hover::after {
   position: absolute;
   right: 2%;
 }
-.icons2 i {
+.icons2>i {
   margin: 0 4px;
   cursor: pointer;
   font-size: 23px;
