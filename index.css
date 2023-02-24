@@ -136,11 +136,11 @@ li:hover::after {
   transform-origin: bottom left;
 }
 
-.icons {
+.icons2 {
   position: absolute;
   right: 2%;
 }
-.icons i {
+.icons2 i {
   margin: 0 4px;
   cursor: pointer;
   font-size: 23px;
@@ -150,7 +150,7 @@ li:hover::after {
   
 }
 
-section nav .icons i:hover {
+section nav .icons2 i:hover {
   color: #fc466b;
 }
 
